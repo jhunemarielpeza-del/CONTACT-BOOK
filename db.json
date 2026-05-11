@@ -1,0 +1,112 @@
+{
+  "users": [
+    {
+      "id": "24d6ae67-865b-4eb0-a394-c258be50716e",
+      "username": "Mariel",
+      "email": "jhunemariell@gmail.com",
+      "password": "$2a$10$VRgIGMQmaatbD17AQoANcOhyr5K/oOqXeLnUjTALKJNNP0WTbBWxq",
+      "createdAt": "2026-05-08T05:22:59.111Z"
+    }
+  ],
+  "contacts": [
+    {
+      "id": "fd53b98b-761a-48af-9d4b-f2068a680007",
+      "userId": "24d6ae67-865b-4eb0-a394-c258be50716e",
+      "name": "Alice Reyes",
+      "email": "alice.reyes@gmail.com",
+      "phone": "09171234501",
+      "address": "123 Mango St, Davao City",
+      "notes": "High School Friend",
+      "createdAt": "2026-05-08T15:11:27.479Z",
+      "updatedAt": "2026-05-08T15:11:27.479Z"
+    },
+    {
+      "id": "af07037a-8b9d-4585-9ec2-270fb5afb1a0",
+      "userId": "24d6ae67-865b-4eb0-a394-c258be50716e",
+      "name": "Brian Santos",
+      "email": "brian.santos@yahoo.com",
+      "phone": "09181234502",
+      "address": "156",
+      "notes": "Secret",
+      "createdAt": "2026-05-08T15:19:31.213Z",
+      "updatedAt": "2026-05-08T15:19:31.213Z"
+    },
+    {
+      "id": "f7a67bae-6e1d-4dab-ae5b-49dc3ca10afb",
+      "userId": "24d6ae67-865b-4eb0-a394-c258be50716e",
+      "name": "Carla Mendoza",
+      "email": "carla.mendoza@outlook.com",
+      "phone": "09191236503",
+      "address": "taga balay",
+      "notes": "neighborhood before",
+      "createdAt": "2026-05-08T15:20:59.511Z",
+      "updatedAt": "2026-05-08T15:20:59.511Z"
+    },
+    {
+      "id": "14fb36b3-0afe-4bf0-8c8e-f02ab4daf888",
+      "userId": "24d6ae67-865b-4eb0-a394-c258be50716e",
+      "name": "jahcole",
+      "email": "jahjahcolen@gmail.com",
+      "phone": "09676767767",
+      "address": "casa dechismosa",
+      "notes": "tombits na daghag lalaki",
+      "createdAt": "2026-05-08T15:22:32.526Z",
+      "updatedAt": "2026-05-11T10:30:51.352Z"
+    },
+    {
+      "id": "0f0909b2-1b66-4616-ab12-226a5059d205",
+      "userId": "24d6ae67-865b-4eb0-a394-c258be50716e",
+      "name": "Leziel Jean Caminade",
+      "email": "imnotjzeili@gmail.com",
+      "phone": "09526485652",
+      "address": "ila calixtro atbang ila lolot",
+      "notes": "BFF na maski asa ibutang mag igat igat jd",
+      "createdAt": "2026-05-08T15:24:44.149Z",
+      "updatedAt": "2026-05-10T13:31:42.946Z"
+    },
+    {
+      "id": "ba9bdfff-cdb1-4c24-a47e-66fd05286775",
+      "userId": "24d6ae67-865b-4eb0-a394-c258be50716e",
+      "name": "Relly Jane Bajao",
+      "email": "Relly@gmail.com",
+      "phone": "09878545214",
+      "address": "atbang gym pasulod",
+      "notes": "Ka tagay nako ni",
+      "createdAt": "2026-05-08T15:25:54.997Z",
+      "updatedAt": "2026-05-08T15:25:54.997Z"
+    },
+    {
+      "id": "98118eba-c6e6-4091-884d-108cd859268a",
+      "userId": "24d6ae67-865b-4eb0-a394-c258be50716e",
+      "name": "Kathleen Pinedo",
+      "email": "Kathleen@gmail.com",
+      "phone": "09856234415",
+      "address": "sa ilang balay",
+      "notes": "Friendship na tombits pero igat",
+      "createdAt": "2026-05-08T15:27:41.182Z",
+      "updatedAt": "2026-05-08T15:27:41.182Z"
+    },
+    {
+      "id": "30589a3b-b491-42af-a05c-f1fb49abfc76",
+      "userId": "24d6ae67-865b-4eb0-a394-c258be50716e",
+      "name": "jhongkie",
+      "email": "jhongkie@gmail.com",
+      "phone": "09858507988",
+      "address": "badas",
+      "notes": "classmate na dako kaau ug problema",
+      "createdAt": "2026-05-11T04:21:58.729Z",
+      "updatedAt": "2026-05-11T04:21:58.729Z"
+    },
+    {
+      "id": "803efbab-9e58-4ff8-8d79-a9ab0b58d66a",
+      "userId": "24d6ae67-865b-4eb0-a394-c258be50716e",
+      "name": "Reynand Argallon",
+      "email": "Reynand@gmail.com",
+      "phone": "09056465845",
+      "address": "Martinez, Phase 11",
+      "notes": "bayowtttt",
+      "createdAt": "2026-05-11T08:31:14.937Z",
+      "updatedAt": "2026-05-11T08:31:14.937Z"
+    }
+  ]
+}
