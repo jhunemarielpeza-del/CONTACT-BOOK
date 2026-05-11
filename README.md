@@ -4,20 +4,20 @@ A full-stack contact management web application built with **Node.js**, **Expres
 
 ---
 
-## 🚀 Features
+## Features
 
-- 🔐 **User Authentication** — Register and log in securely with hashed passwords (bcrypt)
-- 👤 **Per-User Contacts** — Each user sees only their own contacts
-- ➕ **Add Contacts** — Save name, email, phone, address, and notes
-- ✏️ **Edit Contacts** — Update contact details anytime
-- 🗑️ **Delete Contacts** — Remove contacts with a single click
-- 🔍 **Search / Filter** — Quickly find contacts by name or email
-- 💾 **JSON File Database** — Lightweight data persistence via `db.json`
-- 🌐 **Live Server Ready** — Works with VS Code Live Server or any static host
+-  **User Authentication** — Register and log in securely with hashed passwords (bcrypt)
+-  **Per-User Contacts** — Each user sees only their own contacts
+-  **Add Contacts** — Save name, email, phone, address, and notes
+-  **Edit Contacts** — Update contact details anytime
+-  **Delete Contacts** — Remove contacts with a single click
+-  **Search / Filter** — Quickly find contacts by name or email
+-  **JSON File Database** — Lightweight data persistence via `db.json`
+-  **Live Server Ready** — Works with VS Code Live Server or any static host
 
 ---
 
-## 🗂️ Project Structure
+## Project Structure
 
 ```
 CONTACT-BOOK/
@@ -48,7 +48,7 @@ CONTACT-BOOK/
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 | Layer      | Technology              |
 |------------|-------------------------|
@@ -61,7 +61,7 @@ CONTACT-BOOK/
 
 ---
 
-## ⚙️ Getting Started
+## Getting Started
 
 ### Prerequisites
 
@@ -95,7 +95,7 @@ CONTACT-BOOK/
 
 ---
 
-## 📡 API Endpoints
+## API Endpoints
 
 ### Auth Routes — `/api/auth`
 
@@ -117,7 +117,7 @@ CONTACT-BOOK/
 
 ---
 
-## 🗃️ Data Models
+## Data Models
 
 ### User
 ```json
@@ -147,7 +147,7 @@ CONTACT-BOOK/
 
 ---
 
-## 📸 Screenshots
+## Screenshots
 
 > _Add your screenshots here_
 
@@ -157,7 +157,7 @@ CONTACT-BOOK/
 
 ---
 
-## 🔒 Security Notes
+## Security Notes
 
 - Passwords are hashed using **bcrypt** before being stored
 - Authentication tokens protect all contact routes
@@ -165,7 +165,7 @@ CONTACT-BOOK/
 
 ---
 
-## 📌 Future Improvements
+## Future Improvements
 
 - [ ] Add profile picture upload
 - [ ] Export contacts to CSV
@@ -176,12 +176,12 @@ CONTACT-BOOK/
 
 ---
 
-## 👩‍💻 Author
+## Author
 
 **Mariel** — [@your-username](https://github.com/your-username)
 
 ---
 
-## 📄 License
+## License
 
 This project is open source and available under the [MIT License](LICENSE).
